@@ -1,94 +1,151 @@
-# 👋 Hello, World! vynn1coding1coding
+# `> SYSTEM INITIALIZED...`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Technology+Student;Embedded+Systems+Enthusiast;Future+Software+Engineer;Always+Learning+Something+New!" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Technology-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Never%20Stop%20Learning-purple?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=HELLO%2C+WORLD!;I+AM+VYNN+%F0%9F%91%8B;WELCOME+TO+MY+DIGITAL+SPACE;CODE.+BUILD.+INNOVATE." />
 
----
+<img src="https://img.shields.io/badge/PROFILE-CYBER%20DEVELOPER-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" />
 
-## 🚀 About Me
+### `> Computer Engineering Technology Student | Developer | Tech Enthusiast`
 
-- 🎓 Computer Engineering Technology Student at **Politeknik Negeri Samarinda**
-- 💻 Interested in Software Engineering and Embedded Systems.
-- 🔌 Exploring Arduino, ESP32, IoT, and Electronics.
-- 🌐 Learning Web Development and Networking.
-- 🐍 Currently improving my Python programming skills.
-- 🎯 My goal: Become a professional Software Engineer.
+[![GitHub](https://img.shields.io/badge/GitHub-vynn1coding-181717?style=flat-square&logo=github)](https://github.com/vynn1coding)
+[![Profile Views](https://komarev.com/ghpvc/?username=vynn1coding&label=PROFILE+VIEWS&color=00F7FF&style=flat-square)](https://github.com/vynn1coding)
 
-> "Great things are built one line of code at a time."
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## `01 // ABOUT ME`
 
-### 💻 Programming Languages
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Vynn"
+        self.username = "vynn1coding"
+        self.education = "Computer Engineering Technology"
+        self.institution = "Politeknik Negeri Samarinda"
+        self.interests = [
+            "Software Engineering",
+            "Embedded Systems",
+            "Internet of Things",
+            "Cyber Technology",
+            "Web Development",
+            "Computer Networking"
+        ]
+        self.current_focus = [
+            "Python",
+            "C / C++",
+            "JavaScript",
+            "ESP32 & Arduino"
+        ]
+
+    def motto(self):
+        return "Turning ideas into reality through code."
+
+me = Developer()
+print(me.motto())
+```
+
+- 🔭 Exploring the world of programming and technology.
+- ⚡ Building projects with Arduino, ESP32, and IoT.
+- 🌐 Learning web development and software engineering.
+- 🐍 Improving my Python and problem-solving skills.
+- 🎯 Goal: Become a professional Software Engineer.
+
+> `// Think logically. Build creatively. Never stop learning.`
+
+---
+
+## `02 // TECH ARSENAL`
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,php" />
+</p>
+
+### Hardware & Embedded Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+### Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,windows,bootstrap" />
+</p>
+
+### Networking & Electronics
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,php" />
-</p>
-
-### ⚡ Hardware & Embedded Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-### 🔧 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,windows,bootstrap" />
+<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## `03 // PROJECT DATABASE`
 
-| Project | Description | Technologies |
-|---|---|---|
-| Smart Hydroponic System | IoT-based hydroponic monitoring | ESP32, Sensors |
-| Automatic Ruler | Digital distance measurement | Arduino, OLED, HC-SR04 |
-| Home Security System | Smart security and monitoring | ESP32, IoT |
-| Smart Parking System | Automated parking prototype | Arduino, Ultrasonic |
-| Hand Gesture Recognition | Computer vision experiments | Python, OpenCV |
+| Project | Description | Technology |
+|:---|:---|:---|
+| 🌱 Smart Hydroponic | Smart plant monitoring system | ESP32, IoT |
+| 📏 Automatic Ruler | Automatic distance measurement | Arduino Nano, OLED, HC-SR04 |
+| 🏠 Smart Home Security | Multi-sensor security system | ESP32, Sensors |
+| 🚗 Smart Parking | Automated parking prototype | Arduino, Ultrasonic |
+| 👋 Hand Gesture Recognition | Hand tracking and recognition | Python, OpenCV |
+| 🤖 Web Controlled Robot | Robot controlled through a website | ESP32, L298N |
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true" />
-</p>
+> `// More projects are currently under development...`
 
 ---
 
-## 🐍 Contribution Graph
+## `04 // GITHUB STATISTICS`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vynn1coding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
 
-## 🌐 Connect With Me
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynn1coding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
-<p align="center">
-  <a href="https://github.com/USERNAME_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=vynn1coding&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>⚡ BUILD • LEARN • CREATE • REPEAT ⚡</b>
-  <br/>
-  <i>Thanks for visiting my profile!</i>
-</p>
+## `05 // CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vynn1coding&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `06 // CONNECT WITH ME`
+
+<div align="center">
+
+<a href="https://github.com/vynn1coding">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> ACCESS GRANTED_`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=BUILD+SOMETHING+AWESOME.;KEEP+LEARNING.;KEEP+CODING.;SEE+YOU+IN+THE+NEXT+COMMIT!" />
+
+**⚡ CODE • CREATE • INNOVATE • REPEAT ⚡**
+
+<sub>Designed with passion by Vynn | Powered by curiosity.</sub>
+
+</div>

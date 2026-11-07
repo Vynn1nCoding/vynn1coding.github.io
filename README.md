@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Ahmad Ridho Ikhsani
+# 👋 Hello, World! vynn1coding1coding
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Technology+Student;Embedded+Systems+Enthusiast;Future+Software+Engineer;Always+Learning+Something+New!" />

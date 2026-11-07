@@ -16,7 +16,7 @@
 
 ---
 
-## `01 // ABOUT ME`
+## `> ABOUT ME`
 
 ```python
 class Developer:
@@ -57,37 +57,37 @@ print(me.motto())
 
 ---
 
-## `02 // TECH ARSENAL`
+## `> TECH ARSENAL`
 
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,php" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,php" />
 </p>
 
 ### Hardware & Embedded Systems
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
 ### Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,windows,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,windows,bootstrap" />
 </p>
 
 ### Networking & Electronics
 
 <p>
-<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
 
-## `03 // PROJECT DATABASE`
+## `> PROJECT DATABASE`
 
 | Project | Description | Technology |
 |:---|:---|:---|
@@ -102,7 +102,7 @@ print(me.motto())
 
 ---
 
-## `04 // GITHUB STATISTICS`
+## `> GITHUB STATISTICS`
 
 <div align="center">
 
@@ -116,7 +116,7 @@ print(me.motto())
 
 ---
 
-## `05 // CONTRIBUTION ACTIVITY`
+## `> CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
@@ -126,12 +126,12 @@ print(me.motto())
 
 ---
 
-## `06 // CONNECT WITH ME`
+## `> CONNECT WITH ME`
 
 <div align="center">
 
 <a href="https://github.com/vynn1coding">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
